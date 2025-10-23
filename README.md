@@ -6,6 +6,6 @@
 📘 **Misión Actual**: Me apasiona aprender nuevas cosas y dominar el arte de la programación.<br>
 🐱 **Intereses**: Me encantan los gatos y disfruto de su compañía.<br>
 📚 **Tiempo Libre**: En mi tiempo libre, me gusta leer y ver películas. ¡Siempre en busca de nuevas recomendaciones!<br>
-🌟 **Curiosidad**: Aunque a veces me dicen 'perezoso', tengo un talento especial para hacer las cosas con estilo.<br>
+🌟 **Curiosidad**: Me encanta el manga y el anime.<br>
 ✉️ **Contacto**: Sientete libre de escribirme a mi correo adrianna.estefannia@gmail.com ¡Conversemos!<br>
 
