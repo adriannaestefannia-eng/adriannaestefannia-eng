@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hola, soy Adriana Parra Veloso </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
 <h2> 🐈‍⬛ Sobre mi:</h2>
+
 🚀 **Trayectoria**: Actualmente soy estudiante de programación y estoy en un curso de Java Full Stack en Generation.<br>
 🌐 **Colaboraciones**: ¡Abierto a colaborar! ¿Frontend? ¿Backend? ¡Exploramos ambos universos!<br>
 📘 **Misión Actual**: Me apasiona aprender nuevas cosas y dominar el arte de la programación.<br>
